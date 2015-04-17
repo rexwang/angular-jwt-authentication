@@ -1,0 +1,25 @@
+{
+  "name": "angular-jwt-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "faker": "^2.1.2",
+    "cors": "^2.5.3",
+    "express": "^4.12.3"
+  },
+  "devDependencies": {
+    "express": "^4.12.3",
+    "faker": "*",
+    "cors": "*",
+    "body-parser": "^1.12.3",
+    "express-jwt": "^3.0.0",
+    "jsonwebtoken": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rex",
+  "license": "ISC"
+}
